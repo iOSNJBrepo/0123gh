@@ -1,0 +1,20 @@
+Package: com.anemonetheming.anemone3
+Version: 3.0~beta5
+Architecture: iphoneos-arm
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: deb/anemone3.deb
+Size: 11285692
+MD5sum: 7adc37c9c7050089c23477ea9ebc2f91
+SHA1: 51820af9f2954bdb062df47845d71dd11abda0e5
+SHA256: 3e177109f268d7dc9d4b5a7b1b16126ed31f68e5c0772489123c7207f71ef847
+Section: Tweaks
+Description: An awesome theme manager!
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Name: Anemone 3
+Sileodepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+
